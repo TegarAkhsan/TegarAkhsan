@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Tegar 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning about Website Development, UI UX Design, Mobile Development, Also i interested at Data Analyst
+- 👯 Studied as Informatic Management at University State of Surabaya, Indonesia
+- 💬 Making video about animation, tech and productivity https://www.youtube.com/@trigger3d973
+- 📫 How to reach me: 
+      + Instagram : https://www.instagram.com/tegarakhsan/
+      + Linkedin  : www.linkedin.com/in/tegar-eka-1a278b197
 
 <!--
 **TegarAkhsan/TegarAkhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TegarAkhsan)](https://github.com/TegarAkhsan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TegarAkhsan&show_icons=true&theme=tokyonight)
